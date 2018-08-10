@@ -1,0 +1,9 @@
+{
+	"name": "path_lab",
+	"version": "1.0.0",
+	"main": "index.js",
+	"dependencies": {
+		"react": "16.2.0"
+	},
+	"license": "MIT"
+}
