@@ -5,5 +5,9 @@ console.info('process: ', process)
 module.exports = {
     entry: {
         main_entry:'./my_entry.js'
+    },
+    mode:"production",
+    optimization:{
+        minimize:false 
     }
 }
