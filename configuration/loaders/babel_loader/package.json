@@ -1,0 +1,13 @@
+{
+  "name": "babel_loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack":"4.19.0",
+    "babel":"6.23.0",
+    "babel-core":"6.26.3",
+    "babel-preset-env": "^1.2.1",
+    "babel-loader":"7.1.5"
+  }
+}
